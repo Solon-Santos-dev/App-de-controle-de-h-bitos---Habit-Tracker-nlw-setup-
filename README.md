@@ -25,7 +25,7 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML5 e CSS3
 - JavaScript
 - Git e Github
 - Figma
@@ -47,5 +47,5 @@ Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.fig
 Esse projeto está sob a licença MIT.
 
 --- -->
-
+<br>
 Feito com ♥ by Solon Santos - NLW Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
