@@ -34,16 +34,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os nossos hábitos.
 
+- [Viste o projeto online](https://solon-santos-dev.github.io/app-habit-tracker/)
+
 <!-- - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks) -->
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/CxLRAwGXwJq36uXJJpRLxw/Habits-(e)-(Community)?node-id=6%3A344&t=tQKuJ7s5LHRmZFnV-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/CxLRAwGXwJq36uXJJpRLxw/Habits-(e)-(Community)?node-id=6%3A344&t=tQKuJ7s5LHRmZFnV-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
+<!-- ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
 
----
+--- -->
 
 Feito com ♥ by Solon Santos - NLW Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
