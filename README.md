@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os nossos hábitos.
 
-- [Viste o projeto online](https://solon-santos-dev.github.io/app-habit-tracker/)
+- [Visite o projeto online](https://solon-santos-dev.github.io/app-habit-tracker/)
 
 <!-- - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks) -->
 
