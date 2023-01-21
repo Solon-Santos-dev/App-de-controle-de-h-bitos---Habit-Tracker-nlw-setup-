@@ -33,6 +33,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Habits é um app para ajudar a rastrear os nossos hábitos.
+Consiste em: 
+- 1. Adicionar o dia de hoje
+- 2. Marcar os hábitos que você realizou naquele dia
+- 3. Seu registro ficará salvo no Local storage, então na próxima vez que entrar não perderá os dados salvos.
 
 - [Visite o projeto online](https://solon-santos-dev.github.io/app-habit-tracker/)
 
