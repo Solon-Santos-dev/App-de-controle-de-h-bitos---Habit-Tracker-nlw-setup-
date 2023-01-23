@@ -38,6 +38,8 @@ Consiste em:
 - 2. Marcar os hábitos que você realizou naquele dia
 - 3. Seu registro ficará salvo no Local storage, então na próxima vez que entrar não perderá os dados salvos.
 
+Legenda: (💪= exercícios físicos / 💡= meditar/momento pessoal / 💧= beber água / 🥘 = alimentação / 💻 = trabalho/código / 📚 = estudo/inglês / 💤 = sono
+
 - [Visite o projeto online](https://solon-santos-dev.github.io/app-habit-tracker/)
 
 <!-- - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks) -->
