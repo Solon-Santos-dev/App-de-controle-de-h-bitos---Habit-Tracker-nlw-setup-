@@ -54,4 +54,4 @@ Esse projeto está sob a licença MIT.
 
 --- -->
 <br>
-Feito com ♥ by Solon Santos - NLW Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Solon Santos - NLW Rocketseat :wave:
